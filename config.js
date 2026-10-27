@@ -5,6 +5,6 @@
 window.APP_CONFIG = {
   COMPANY_NAME: 'Contract & Service Hub',
   CURRENCY: 'RM',
-  API_URL: '',
+  API_URL: 'https://script.google.com/macros/s/AKfycbxXNfRSl2EEggJUpGaxuxrjKh2A9bIR-67lfLXXQl4RYhmWiBA93TfvC2yT195shrwa/exec',
   GOOGLE_CLIENT_ID: '565076969693-m0aeshobnlvb0p542p3flt0g6cudjopi.apps.googleusercontent.com',
 };
